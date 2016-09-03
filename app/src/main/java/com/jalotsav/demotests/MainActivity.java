@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView tvHW = (TextView) findViewById(R.id.tv_mainactvty);
-        tvHW.setText("Jaldeep Asodariya");
+        tvHW.setText("Jd Patel, Android Developer");
     }
 }
