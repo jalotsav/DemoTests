@@ -1,3 +1,1 @@
-Created Info file for testing
-Edit from Android studio for commit
-
+Info file added for testing
